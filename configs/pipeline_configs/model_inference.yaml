@@ -1,0 +1,4 @@
+model_registry_stage: "production"
+
+data_input:
+  table_name: ""

@@ -1,0 +1,4 @@
+REGION: "your-region"
+PROJECT_ID: "your-project-name"
+BUCKET_NAME: "gs://your-bucket-name"
+SERVICE_ACCOUNT: "your-service-account-email"

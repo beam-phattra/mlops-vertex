@@ -1,0 +1,14 @@
+# Production
+
+# Model params
+model_experiment_path: ""
+model_name: ""
+
+# Label params
+label_table_database_name: ""
+
+# Feature params
+feature_table_database_name: ""
+
+# Inference params
+predictions_table_database_name: ""
